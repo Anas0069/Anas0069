@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA for FAANG, Deep Learning, MLOps, FastAPI, LangChain**
 
-- 💬 Ask me about **Building Java OOP projects, Decentralized Carbon Token Hackathons, DL + X-ray models**
+- 💬 Ask me about **Building ML projects, LLM Models, DL + X-ray models**
 
 - 📫 How to reach me **mda807430@gmail.com / anas009gs@gmail.com**
 
